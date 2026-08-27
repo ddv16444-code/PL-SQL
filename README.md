@@ -39,4 +39,4 @@ Unit 2::==>
 [P2.8 Loan EMI Affordability Checker.sql](https://github.com/user-attachments/files/31308303/P2.8.Loan.EMI.Affordability.Checker.sql)
 
 ------------------------------------------------------------------------------------------------------------------------
-
+https://github.com/pinaksinhgohil2023-tech/PL-SQL_ASSIGNMENTS/tree/main/dbms
