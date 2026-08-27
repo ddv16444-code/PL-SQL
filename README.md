@@ -40,3 +40,6 @@ Unit 2::==>
 
 ------------------------------------------------------------------------------------------------------------------------
 https://github.com/pinaksinhgohil2023-tech/PL-SQL_ASSIGNMENTS/tree/main/dbms
+
+
+https://github.com/tjatin635-tech/sql.git
