@@ -23,12 +23,19 @@ Unit 1::==>
 Unit 2::==>
 =======================================================================================================================
 [P2.1 Complete Grade Card System.sql](https://github.com/user-attachments/files/31308313/P2.1.Complete.Grade.Card.System.sql)
+
 [P2.2 Indian Income Tax Calculator 2024-25.sql](https://github.com/user-attachments/files/31308312/P2.2.Indian.Income.Tax.Calculator.2024-25.sql)
+
 [P2.3 ATM Machine Simulation.sql](https://github.com/user-attachments/files/31308310/P2.3.ATM.Machine.Simulation.sql)
+
 [P2.4 Loops and Patterns.sql](https://github.com/user-attachments/files/31308308/P2.4.Loops.and.Patterns.sql)
+
 [P2.5 Fibonacci, Primes and GCD — WHILE Loop.sql](https://github.com/user-attachments/files/31308307/P2.5.Fibonacci.Primes.and.GCD.WHILE.Loop.sql)
+
 [P2.6 Zomato Delivery Price Engine.sql](https://github.com/user-attachments/files/31308306/P2.6.Zomato.Delivery.Price.Engine.sql)
+
 [P2.7 Student Result + Attendance System.sql](https://github.com/user-attachments/files/31308305/P2.7.Student.Result.%2B.Attendance.System.sql)
+
 [P2.8 Loan EMI Affordability Checker.sql](https://github.com/user-attachments/files/31308303/P2.8.Loan.EMI.Affordability.Checker.sql)
 
 ------------------------------------------------------------------------------------------------------------------------
