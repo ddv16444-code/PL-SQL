@@ -4,12 +4,19 @@ Assignment of Unit01 and Unit 02.
 Unit 1::==>
 =======================================================================================================================
 [P1.1 My First PLSQL Block .sql](https://github.com/user-attachments/files/31308267/P1.1.My.First.PLSQL.Block.sql)
+
 [P1.2 Variables and Data Types.sql](https://github.com/user-attachments/files/31308266/P1.2.Variables.and.Data.Types.sql)
+
 [P1.3 Constants, NULL and NVL.sql](https://github.com/user-attachments/files/31308263/P1.3.Constants.NULL.and.NVL.sql)
+
 [P1.4 SELECT INTO — Employee Data Fetcher.sql](https://github.com/user-attachments/files/31308259/P1.4.SELECT.INTO.Employee.Data.Fetcher.sql)
+
 [P1.5 %ROWTYPE — Employee Profile Card.sql](https://github.com/user-attachments/files/31308256/P1.5.ROWTYPE.Employee.Profile.Card.sql)
+
 [P1.6 Bank Interest Calculator — SI and CI.sql](https://github.com/user-attachments/files/31308252/P1.6.Bank.Interest.Calculator.SI.and.CI.sql)
+
 [P1.7 Nested Blocks — Scope Explorer.sql](https://github.com/user-attachments/files/31308247/P1.7.Nested.Blocks.Scope.Explorer.sql)
+
 [P1.8 Student ID Card Generator — String Functions.sql](https://github.com/user-attachments/files/31308242/P1.8.Student.ID.Card.Generator.String.Functions.sql)
 
 ------------------------------------------------------------------------------------------------------------------------
